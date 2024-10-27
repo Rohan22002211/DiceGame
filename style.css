@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background-color: gray;
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    margin: 38px;
+}
+
+.player{
+    display: inline-block;
+    margin: 10px 220px 10px 220px;
+}
+
+.dice {
+    height: 300px;
+    margin: 0px 50px 0px 50px;
+    border-radius: 10px;
+}
+
+.btn{
+    font-size: 40px;
+    border-radius: 10px;
+    background-color: peru;
+    margin: 0 0 -10px 0;
+}
+
+.btn:hover {
+    background-color: red;
+}
+footer{
+    margin: 50px 0px 0px 0px;
+}
+
+.logo {
+    height: 30px;
+    margin-bottom: -10px;
+
+}
